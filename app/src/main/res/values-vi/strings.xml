@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Place</string>
+    <string name="title">Xin chào</string>
+
+    <string name="rate_5_stars">Đánh giá 5 sao nào</string>
+    <string name="send_feedback">Gửi phản hồi</string>
+    <string name="share_app">Chia sẻ ứng dụng</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="device_language">Ngôn ngữ hệ thống</string>
+    <string name="faq">FAQ</string>
+    <string name="quit">Thoát</string>
+
+    <string name="open_drawer">Mở thanh vẽ</string>
+    <string name="close_drawer">Đóng thanh vẽ</string>
+    <string name="choose_email_title">Gửi mail&#8230;</string>
+    <string name="share_app_title">Chia sẻ ứng dụng đến&#8230;</string>
+</resources>

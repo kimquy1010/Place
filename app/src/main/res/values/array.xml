@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_name">
+        <item>All place</item>
+        <item>Food</item>
+        <item>Leisure Time Entertainment</item>
+        <item>Store</item>
+        <item>Beauty and Health</item>
+        <item>Sports and tourism</item>
+        <item>Education</item>
+        <item>Legal and financial services</item>
+    </string-array>
+
+
+    <integer-array name="category_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+
+    <array name="category_icons">
+        <item>@drawable/ic_all</item>
+        <item>@drawable/ic_food</item>
+        <item>@drawable/ic_entertainment</item>
+        <item>@drawable/ic_shop</item>
+        <item>@drawable/ic_health</item>
+        <item>@drawable/ic_sport</item>
+        <item>@drawable/ic_education</item>
+        <item>@drawable/ic_finalcial</item>
+    </array>
+
+    <string-array name="food">
+        <item>All place</item>
+        <item>Anti-Cafe</item>
+        <item>Bar</item>
+        <item>Fast food</item>
+        <item>Restaurants</item>
+    </string-array>
+    <string-array name="leisure_time_entertainment">
+        <item>All place</item>
+        <item>Karaoke bar</item>
+        <item>Cinema</item>
+        <item>Night clubs</item>
+        <item>Water parks</item>
+    </string-array>
+
+    <string-array name="store">
+        <item>All place</item>
+        <item>Closing stores</item>
+        <item>Mobile shops</item>
+        <item>Musical shops</item>
+    </string-array>
+
+    <string-array name="beauty_and_health">
+        <item>All place</item>
+        <item>Beauty salon</item>
+        <item>Body care</item>
+    </string-array>
+    <string-array name="sport_tourism">
+        <item>All place</item>
+        <item>Gym</item>
+        <item>Soccer field</item>
+    </string-array>
+
+    <string-array name="education">
+        <item>All place</item>
+        <item>Art school</item>
+        <item>Guitar school</item>
+        <item>Sport school</item>
+    </string-array>
+    <string-array name="financial_service">
+        <item>All place</item>
+        <item>ATM</item>
+        <item>Bank</item>
+    </string-array>
+
+</resources>

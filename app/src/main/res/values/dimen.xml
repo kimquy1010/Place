@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="icon_adapter_navigation_width">20dp</dimen>
+    <dimen name="icon_adapter_navigation_height">20dp</dimen>
+    <dimen name="margin_start">16dp</dimen>
+    <dimen name="height_list_item">100dp</dimen>
+    <dimen name="icon_tab_width">16dp</dimen>
+    <dimen name="icon_tab_height">16dp</dimen>
+
+    <dimen name="icon_adapter_production_width">28dp</dimen>
+    <dimen name="icon_adapter_production_height">28dp</dimen>
+    <dimen name="adapter_height">48dp</dimen>
+    <dimen name="adapter_margin_start">16dp</dimen>
+    <dimen name="adapter_margin_bottom">8dp</dimen>
+    <dimen name="adapter_margin_top">8dp</dimen>
+    <dimen name="adapter_text_margin_start">72dp</dimen>
+    <dimen name="adapter_icon_margin_start">16dp</dimen>
+
+    <dimen name="frame_layout_margin_start">72dp</dimen>
+
+
+    <dimen name="width_list_item_dialog">80dp</dimen>
+    <dimen name="height_list_item_dialog">80dp</dimen>
+</resources>
